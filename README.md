@@ -9,6 +9,6 @@
 
 ## Como utilizar este projeto
 
-_Para utilizar este BoilerPlate baste clicar no botão conforme a imagem abaixo._
+_Para utilizar este BoilerPlate basta clicar no botão, conforme a imagem abaixo._
 
 ![How to use](https://github.com/vitoropereira/startTemplateLaravel/blob/master/public/img/how_to_use.png)
