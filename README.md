@@ -9,6 +9,6 @@
 
 ## Como utilizar este projeto
 
-## QUal a estrutura do projeto?
+_Para utilizar este BoilerPlate baste clicar no botão conforme a imagem abaixo._
 
-## Como criar novos componentes/páginas?
+![How to use](https://github.com/vitoropereira/startTemplateLaravel/blob/master/public/img/how_to_use.png)
